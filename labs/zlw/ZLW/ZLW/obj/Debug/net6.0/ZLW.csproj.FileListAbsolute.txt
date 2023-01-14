@@ -1,0 +1,15 @@
+C:\Users\Evgeniy\source\repos\ZLW\ZLW\ZLW\bin\Debug\net6.0\ZLW.exe
+C:\Users\Evgeniy\source\repos\ZLW\ZLW\ZLW\bin\Debug\net6.0\ZLW.deps.json
+C:\Users\Evgeniy\source\repos\ZLW\ZLW\ZLW\bin\Debug\net6.0\ZLW.runtimeconfig.json
+C:\Users\Evgeniy\source\repos\ZLW\ZLW\ZLW\bin\Debug\net6.0\ZLW.dll
+C:\Users\Evgeniy\source\repos\ZLW\ZLW\ZLW\bin\Debug\net6.0\ref\ZLW.dll
+C:\Users\Evgeniy\source\repos\ZLW\ZLW\ZLW\bin\Debug\net6.0\ZLW.pdb
+C:\Users\Evgeniy\source\repos\ZLW\ZLW\ZLW\obj\Debug\net6.0\ZLW.csproj.AssemblyReference.cache
+C:\Users\Evgeniy\source\repos\ZLW\ZLW\ZLW\obj\Debug\net6.0\ZLW.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Evgeniy\source\repos\ZLW\ZLW\ZLW\obj\Debug\net6.0\ZLW.AssemblyInfoInputs.cache
+C:\Users\Evgeniy\source\repos\ZLW\ZLW\ZLW\obj\Debug\net6.0\ZLW.AssemblyInfo.cs
+C:\Users\Evgeniy\source\repos\ZLW\ZLW\ZLW\obj\Debug\net6.0\ZLW.csproj.CoreCompileInputs.cache
+C:\Users\Evgeniy\source\repos\ZLW\ZLW\ZLW\obj\Debug\net6.0\ZLW.dll
+C:\Users\Evgeniy\source\repos\ZLW\ZLW\ZLW\obj\Debug\net6.0\ref\ZLW.dll
+C:\Users\Evgeniy\source\repos\ZLW\ZLW\ZLW\obj\Debug\net6.0\ZLW.pdb
+C:\Users\Evgeniy\source\repos\ZLW\ZLW\ZLW\obj\Debug\net6.0\ZLW.genruntimeconfig.cache
