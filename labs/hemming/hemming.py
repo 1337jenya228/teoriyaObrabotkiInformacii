@@ -51,6 +51,7 @@ def control_bits_create(source):
             control_bits_list = control_bits_list[0:len(control_bits_list) - 1]
             break
 
+    #генериует матрицу ответсвенности контрольных битов за разряды
     matrix_control_bits = list()
     n = 0
     while n < b:
@@ -69,10 +70,11 @@ def control_bits_create(source):
             i += 2 ** n
         matrix_control_bits.append(stars_list)
         n += 1
-
+    #обрезает матрицу контрольных битов отвечающих за разряды
     for i in range(len(matrix_control_bits)):
         matrix_control_bits[i] = matrix_control_bits[i][0:len(control_bits_list)]
 
+    #расставлене значений контрольных битов
     n = 0
     while n < len(matrix_control_bits):
         sum = 0
